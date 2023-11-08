@@ -3,13 +3,13 @@
 ### https://crypto.stackexchange.com/questions/6770/cracking-an-rsa-with-no-padding-and-very-small-e/6771#6771 
 >From this we find out that when there is no padding done in RSA then encryption is done in a different way. The equation changes to :
 
-                                             _M^e (mod N) = C_
+                                             M^e (mod N) = C
 
 >M : Text to be encrypted with help of N and e and C is the Ciphertext which is provided to us.
 >Above equation can also be written :
 
-                                            _M^e = k * N + C_
-                                            _M = (k * N + C)^(1/e)_
+                                            M^e = k * N + C
+                                            M = (k * N + C)^(1/e)
 
 
 >We just need to find the right t. Given that 'M' is only "barely" larger than n. We can do this with the help of a python script.gmpy2 module, it has a function iroot which help us to find out if n-th root exists or not.

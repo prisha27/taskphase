@@ -6,7 +6,8 @@
                                              ### _M^e (mod N) = C_
 
 >M : Text to be encrypted with help of N and e and C is the Ciphertext which is provided to us.
->Above equation can also be written a<div style='text-align: center;'>
+>Above equation can also be written :
+
                                             ### _M^e = k * N + C_
                                             ### _M = (k * N + C)^(1/e)_
 

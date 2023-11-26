@@ -24,3 +24,5 @@ def decrypt_pair(pair, matrix):
 using this code entering our key value and encrypted text we will get the plain text which when fetch in our terminal will give us the flag.
 
 
+![Screenshot from 2023-11-26 17-11-41](https://github.com/prisha27/taskphase/assets/123857524/fc6d299b-b17a-4257-980e-ed8510ff3bff)
+

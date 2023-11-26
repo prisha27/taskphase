@@ -1,5 +1,5 @@
 # Play Nice
->in the given python file there is a wikipedia page which shows description about the cipher that is being used i.e. play fair cipher.
+>In the given python file there is a wikipedia page which shows description about the cipher that is being used i.e. play fair cipher.
 >Going through the webpage we understand the way of encryption used for the playfair cipher is:
 >if letters are in same row --- then we use the right shifteed letter
 >if letters are in same column --- we use the next row same column element.

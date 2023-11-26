@@ -6,6 +6,7 @@
 >strings trace.pcap | grep pico
 ```
 it extract and filter printable strings from the file and then search for the string containing ' pico '.
+```
 
 ![Screenshot from 2023-11-26 20-18-04](https://github.com/prisha27/taskphase/assets/123857524/c56a55a8-b196-4ad2-863d-b9d90425803d)
 

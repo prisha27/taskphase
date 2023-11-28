@@ -7,3 +7,6 @@
 > The flag starts with 70.
 > ```
 > Opening the file with Ghidra, we see Symbol Tree from where we can open our main function.
+>![Screenshot 2023-11-28 203027](https://github.com/prisha27/taskphase/assets/123857524/f133096d-13a1-4e3b-a108-bd814f401015)
+> 
+
